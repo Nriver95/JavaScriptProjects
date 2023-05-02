@@ -13,3 +13,7 @@ function myFirstFunction() {                //Defining a function and naming it
                                             //of the variable into the HTML elementFromPoint
                                             //with the "Button_Text" id
 }
+
+function loadImage() {
+    alert('Image is loaded')
+}
