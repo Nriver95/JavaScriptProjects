@@ -49,6 +49,8 @@ function notNotFunction() {
     document.getElementById('notNot').innerHTML = !(5>10);
 }
 
+var arguments=argue
+document.write(arguments)
 //document.getElementById('test').innerHTML=isNaN('this is a string');
 
 //document.getElementById('test').innerHTML=isNaN('007');
