@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Basic HTML</title>
+	</head>
+	
+	<body>
+		<script>
+        a="always ";
+        b="remember: ";
+        document.write(a+b);
+        
+        x="you ";
+        y="are ";
+        document.write(x+y);
+
+      //m="unique ";            //this was code used for the example of when something goes wrong. In the dev tools on chrome I saw there was an "uncaught ReferenceError: z is not defined"    
+      //n="just like everone else.";    
+      //document.write(n+z);        //the problem was that on index.html there was an error on line 21(this line) that was fixed to look like the code below this.
+        
+        m="unique ";
+        n="just like everone else.";
+        document.write(m+n);
+        </script>
+        <p id="countingToTen"></p>
+        <button onclick="countToTen()">Click here to start.</button>
+        <script src="JS/main.js"></script>
+
+        <p id="loop"></p>
+        <button onclick="callLoop()">Click Here to execute the loop.</button>
+	</body>
+</html> 
