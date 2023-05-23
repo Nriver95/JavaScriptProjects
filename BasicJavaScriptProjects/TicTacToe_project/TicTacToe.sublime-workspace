@@ -1,0 +1,254 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"background",
+				"background"
+			],
+			[
+				"bac",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"install package control",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 131.199996948,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Superssannin/Documents/GitHub/Web-Development-Projects/One-Page Website/monster_hunter_CSS.css",
+		"/C/program files (x86)/Steam/steamapps/common/ELDEN RING/Game/sd/sd.bdt",
+		"/C/Users/Superssannin/Documents/GitHub/Nriver95.github.io/index.html",
+		"/C/Users/Superssannin/Documents/GitHub/Web-Development-Projects/Basic_HTML_and_CSS/HTML_Table.html",
+		"/C/Users/Superssannin/Documents/GitHub/Web-Development-Projects/One-Page Website/one_page_website.html",
+		"/C/Users/Superssannin/Documents/GitHub/Web-Development-Projects/Basic_HTML_Website/index.html",
+		"/C/program files (x86)/Steam/steamapps/common/ELDEN RING/Game/Data0.bdt",
+		"/C/Users/Superssannin/Documents/GitHub/Web-Development-Projects/F.html",
+		"/C/Users/Superssannin/Documents/GitHub/Web-Development-Projects/Intro_Stuff/Assignment.html",
+		"/C/Users/Superssannin/Documents/GitHub/Web-Development-Projects/Basic_HTML_and_CSS/Basic_Form.html",
+		"/C/Users/Superssannin/Documents/GitHub/Web-Development-Projects/Basic_HTML_and_CSS/Basic_HTML_5.html",
+		"/C/Users/Superssannin/Documents/GitHub/Web-Development-Projects/Basic_HTML_and_CSS/CSS_Table.css",
+		"/C/Users/Superssannin/Documents/GitHub/Web-Development-Projects/Basic_HTML_and_CSS/HTML_Spacing_Challenge.html",
+		"/C/Users/Superssannin/Documents/GitHub/Web-Development-Projects/Basic_HTML_Website/firstHTMLDoc.html",
+		"/C/Users/Superssannin/Documents/GitHub/Web-Development-Projects/Basic_HTML_and_CSS/Basic_HTML_4.html",
+		"/C/Users/Superssannin/Documents/GitHub/Web-Development-Projects/Basic_HTML_and_CSS/Basic_CSS_2.css",
+		"/C/Users/Superssannin/Documents/GitHub/Web-Development-Projects/Basic_HTML_and_CSS/HTML_Lists.html",
+		"/C/Users/Superssannin/Documents/GitHub/Web-Development-Projects/Basic_HTML_and_CSS/CSS_List.css",
+		"/C/Users/Superssannin/Documents/GitHub/Web-Development-Projects/Basic_HTML_and_CSS/Table.html",
+		"/C/Users/Superssannin/Documents/GitHub/Web-Development-Projects/Basic_HTML_and_CSS/Basic_HTML_3.html",
+		"/C/Users/Superssannin/Documents/GitHub/Web-Development-Projects/Basic_HTML_and_CSS/Basic_CSS_1.css",
+		"/C/Users/Superssannin/Documents/GitHub/Web-Development-Projects/HtmlTemplate.html",
+		"/C/Users/Superssannin/Documents/GitHub/Web-Development-Projects/Basic_HTML_and_JavaScript_1/Basic_HTML_1.html",
+		"/C/Users/Superssannin/Documents/GitHub/Web-Development-Projects/Basic_HTML_and_JavaScript_1/Basic_HTML_2.html",
+		"/C/Users/Superssannin/Documents/GitHub/Web-Development-Projects/Basic_HTML_and_JavaScript_1/Basic_JavaScript_1.js",
+		"/C/Users/Superssannin/Documents/GitHub/Web-Development-Projects/Basic_HTML_and_JavaScript_1/alertBox.js",
+		"/C/Users/Superssannin/Documents/GitHub/Web-Development-Projects/Dog_Video.html",
+		"/C/Users/Superssannin/Documents/GitHub/Web-Development-Projects/README.md",
+		"/C/Users/Superssannin/Documents/GitHub/Web-Development-Projects/Assignment.html",
+		"/C/Users/Superssannin/Documents/GitHub/Web-Development-Projects/Dog.html",
+		"/C/Users/Superssannin/Documents/GitHub/Web-Development-Projects/Basic_HTML_and_CSS/CSS_Class.html",
+		"/C/Users/Superssannin/Documents/GitHub/Web-Development-Projects/Basic_HTML_and_CSS/newCSSFile.css",
+		"/C/Users/Superssannin/Documents/GitHub/Web-Development-Projects/Basic_HTML_1.html",
+		"/C/Users/Superssannin/Documents/GitHub/office_hours/officeHours.py",
+		"/C/Users/Superssannin/Documents/_nick/programmingProjects/my-app/src/App.tsx",
+		"/C/Users/Superssannin/Documents/_nick/programmingProjects/my-app/src/index.tsx",
+		"/C/Users/Superssannin/Documents/_nick/programmingProjects/my-app/src/index.js",
+		"/C/Users/Superssannin/Documents/_nick/programmingProjects/my-app/src/App.css",
+		"/C/Users/Superssannin/Documents/_nick/programmingProjects/my-app/src/logo.svg",
+		"/C/Program Files/Sublime Text/web-projects/test-site/index.html"
+	],
+	"find":
+	{
+		"height": 27.2
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.2
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 0.0
+	},
+	"output.diagnostics":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "TicTacToe.sublime-project",
+	"replace":
+	{
+		"height": 51.2
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 227.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
